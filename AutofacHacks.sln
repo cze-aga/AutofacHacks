@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacHacksCore", "AutofacHacksCore.csproj", "{B7A455BB-03F1-4896-AB08-A0D00E34D64E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacHackService", "..\AutofacHackService\AutofacHackService.csproj", "{BB1FF424-41DA-4DCA-AE87-DCEB5D493DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A455BB-03F1-4896-AB08-A0D00E34D64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A455BB-03F1-4896-AB08-A0D00E34D64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A455BB-03F1-4896-AB08-A0D00E34D64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A455BB-03F1-4896-AB08-A0D00E34D64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1FF424-41DA-4DCA-AE87-DCEB5D493DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1FF424-41DA-4DCA-AE87-DCEB5D493DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1FF424-41DA-4DCA-AE87-DCEB5D493DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1FF424-41DA-4DCA-AE87-DCEB5D493DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FD084B0-E681-4F2A-B7E8-79CF36599D4A}
+	EndGlobalSection
+EndGlobal
